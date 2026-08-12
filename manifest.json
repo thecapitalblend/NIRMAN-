@@ -1,0 +1,15 @@
+{
+  "name": "Nirman Hisab — Construction Ka Hisab",
+  "short_name": "Nirman Hisab",
+  "description": "Apni construction site ka poora hisab-kitab — material, majdoori, kharch aur aamdani, offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDE9DE",
+  "theme_color": "#22303C",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
